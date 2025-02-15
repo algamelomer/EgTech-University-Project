@@ -143,7 +143,7 @@ class ProjectHomePage extends StatelessWidget {
           onTapUp: (_) => setState(() => scale = 1.0),
           onTapCancel: () => setState(() => scale = 1.0),
           onTap: () {
-            // TODO: أضف الأكشن هنا
+            // hello 👋 
           },
           child: AnimatedContainer(
             duration: const Duration(milliseconds: 200),
